@@ -1,0 +1,30 @@
+[
+    {
+        "id": "0",
+        "name": "World"
+    },
+    {
+        "id": "1",
+        "name": "Tech"
+    },
+    {
+        "id": "2",
+        "name": "Sports"
+    },
+    {
+        "id": "3",
+        "name": "Shop"
+    },
+    {
+        "id": "4",
+        "name": "Business"
+    },
+    {
+        "id": "5",
+        "name": "Community"
+    },
+    {
+        "id": "6",
+        "name": "Culture"
+    }
+]
